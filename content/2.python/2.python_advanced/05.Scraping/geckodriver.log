@@ -453,3 +453,57 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Child][PContentChild] Error: Send(msgname=PContent::Msg_DiscardBrowsingContext) Closed channel: cannot send/recv
 
+1652795918923	geckodriver	INFO	Listening on 127.0.0.1:60484
+1652795921933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60485" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilencsQdJ"
+1652795922804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilencsQdJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60485/devtools/browser/8c3fd016-9d87-4734-8f74-7b1e66496c5a
+1652795925715	Marionette	INFO	Listening on port 60506
+Read port: 60506
+1652795925757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://media.ethicalads.io/media/client/v1.4.0/ethicalads.min.js, line 1: Error: No ad placements found.
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 184: TypeError: this._element is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.python.org"
+1652795929536	Marionette	INFO	Stopped listening on port 60506
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652796047893	geckodriver	INFO	Listening on 127.0.0.1:60554
+1652796050934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilelhPWJR"
+1652796051457	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofilelhPWJR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60555/devtools/browser/fd47c68d-94cd-48cf-92bb-2847b5b52f94
+1652796053294	Marionette	INFO	Listening on port 60576
+Read port: 60576
+1652796053416	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652796199695	Marionette	INFO	Stopped listening on port 60576
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60626" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileIGlS9o"
+1652796143229	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileIGlS9o\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60626/devtools/browser/9fb9509d-f986-4d3e-ae1c-113a91b5ba43
+1652796145160	Marionette	INFO	Listening on port 60648
+Read port: 60648
+1652796145213	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/NHksFvpwOA_e7xJte31GpOZsvVxHGuXQeGuPktjycGc.js line 1 > eval line 2709 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1652796199692	Marionette	INFO	Stopped listening on port 60648
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 898: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+1652796203975	geckodriver	INFO	Listening on 127.0.0.1:60743
+1652796207014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60744" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileqaLWrc"
+1652796207671	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\himan\\AppData\\Local\\Temp\\rust_mozprofileqaLWrc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60744/devtools/browser/4eb6270f-81d1-43d0-9659-6cf62d1db4f7
+1652796209649	Marionette	INFO	Listening on port 60765
+Read port: 60765
+1652796209778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1652796222167	Marionette	INFO	Stopped listening on port 60765
+
+###!!! [Child][PContentChild] Error: RunMessage(msgname=PHttpChannel::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
